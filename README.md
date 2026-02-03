@@ -79,7 +79,7 @@ Smallest suitable room is allocated
 
 If no room matches → display “No room available”
 
-Allocation Logic
+## Allocation Logic
 
 The allocation algorithm follows these steps:
 
@@ -101,8 +101,8 @@ If no room qualifies, return a failure message
 
 This ensures optimal space utilization and predictable allocation behavior.
 
-Tech Stack
-Frontend
+## Tech Stack
+### Frontend
 
 React (Vite)
 
@@ -110,7 +110,7 @@ JavaScript
 
 HTML, CSS
 
-Backend
+### Backend
 
 Node.js
 
