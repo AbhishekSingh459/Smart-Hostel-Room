@@ -1,4 +1,4 @@
-Smart Hostel Room Allocation System
+# Smart Hostel Room Allocation System
 
 Full Stack Developer Assignment
 
