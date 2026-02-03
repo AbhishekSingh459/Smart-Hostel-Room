@@ -1,12 +1,11 @@
-Smart Hostel Room Allocation System
+# Smart Hostel Room Allocation System
 
-Full Stack Developer Assignment
 
-Overview
+## Overview
 
 The Smart Hostel Room Allocation System is a full-stack web application designed to manage hostel rooms and automatically allocate rooms to students based on capacity and facility requirements.
 
-The project demonstrates:
+### The project demonstrates:
 
 Data modeling
 
@@ -16,11 +15,8 @@ Allocation algorithm implementation
 
 Frontend–backend integration
 
-Clean and maintainable code structure
 
-The solution was developed within a 1–2 week time frame, focusing on correctness, clarity, and scalability.
-
-Objective
+## Objective
 
 To build a working application that:
 
@@ -32,7 +28,7 @@ Automatically allocates the smallest suitable room based on given constraints
 
 Provides a simple and usable UI for interaction
 
-Functional Requirements Implemented
+### Functional Requirements Implemented
 1. Add Room
 
 Add new hostel rooms via UI
@@ -124,7 +120,8 @@ MongoDB
 
 Mongoose
 
-Project Structure
+## Project Structure
+
 Smart-Hostel-Room/
 │
 ├── client/                  # Frontend
@@ -168,7 +165,8 @@ Sample Request
   "needsWashroom": false
 }
 
-Setup Instructions
+## Setup Instructions
+
 Backend Setup
 cd server
 npm install
@@ -185,7 +183,7 @@ Start server:
 npm start
 
 
-Backend runs on:
+## Backend runs on:
 
 http://localhost:5000
 
@@ -195,11 +193,11 @@ npm install
 npm run dev
 
 
-Frontend runs on:
+## Frontend runs on:
 
 http://localhost:5173
 
-Validation & Error Handling
+## Validation & Error Handling
 
 Prevents duplicate room numbers
 
@@ -247,6 +245,6 @@ Clean separation of concerns
 
 Ability to deliver a complete solution within a limited timeline
 
-Author
+## Author
 
 Abhishek Kumar Singh
