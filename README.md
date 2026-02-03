@@ -16,9 +16,6 @@ Allocation algorithm implementation
 
 Frontend–backend integration
 
-Clean and maintainable code structure
-
-The solution was developed within a 1–2 week time frame, focusing on correctness, clarity, and scalability.
 
 Objective
 
