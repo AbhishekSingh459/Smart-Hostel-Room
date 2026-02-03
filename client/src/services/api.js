@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://smart-hostel-room-backend.onrender.com";
+const API_BASE_URL = "https://smart-hostel-room-backend.onrender.com/api";
 
 export const api = {
   // Get all rooms
